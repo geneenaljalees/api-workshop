@@ -33,9 +33,9 @@ Read each section and be ready to answer questions
 
 4. [Asynchronous code](./04-asynchronous.md)
 
-5. [Fix a broken API request](https://github.com/ali-7/api-workshop/tree/master/api-example)
+5. [Fix a broken API request](https://github.com/GSG-G10/api-workshop/tree/master/api-example)
    - You will need to clone the repository and work on the code locally
-   - `https://github.com/ali-7/api-workshop.git`
+   - `https://github.com/GSG-G10/api-workshop.git`
    - Open `index.html` in the browser and you will see that the API request is not working
    - Open `main.js` and look for what's broken or missing in the code. If you're confused, check it line-by-line against the description of XHR in [this file](./03-xmlhttprequest.md)
 
